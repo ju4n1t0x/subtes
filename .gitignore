@@ -1,0 +1,12 @@
+# Raw historical datasets (too heavy for GitHub)
+Datasets/historico_*.csv
+
+# LibreOffice lock files
+.~lock.*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Tooling state
+.atl/
